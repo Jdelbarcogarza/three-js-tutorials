@@ -1,5 +1,8 @@
 # Astro Starter Kit: Minimal
 
+### Hello world app for learning Three.js
+My plan is to learn Three.js implemented under Astro to create 3D interactive web experiences for landing pages.
+
 ```sh
 npm create astro@latest -- --template minimal
 ```

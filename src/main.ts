@@ -5,7 +5,11 @@ function main() {
 
   const world = new World(container);
 
-  world.render();
+  // start animation loop
+  world.start();
+
+  // render a single frame
+  // world.render();
 }
 
 main();
